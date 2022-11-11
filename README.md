@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-You can find me on Mastadon at 
-<a rel="me" href="https://mstdn.social/@spocklogical">@spocklogical@mstdn.social</a>
+You can find me on Mastadon at <a rel="me" rel="me" href="https://mstdn.social/@spocklogical">`@spocklogical@mstdn.social`</a>
 
 <!--
 **josh-hemphill/josh-hemphill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
